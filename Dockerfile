@@ -1,4 +1,5 @@
 FROM node:8
+MAINTAINER	Clemens Putschli <clemens@putschli.de>
 
 # create app dir
 WORKDIR /usr/sonos-web
