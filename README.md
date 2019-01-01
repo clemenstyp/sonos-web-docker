@@ -8,3 +8,4 @@ Sonos Web is a browser based controller for your Sonos sound system.
 
 Install Sonos Web on a single computer and access and manage your system from any browser on your network.
 
+i installed this version my synology diskstatiom
